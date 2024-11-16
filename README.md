@@ -1,1 +1,16 @@
-Admin-dashboard frontend
+Admin-dashboard frontend. This is admin-dashboard particularly for a shop owner who can track his finances, employees, customer and related records with this on in one website
+![Screenshot (2572)](https://github.com/user-attachments/assets/f5e70b9c-56d9-4150-903e-3797709e1e76)
+![Screenshot (2576)](https://github.com/user-attachments/assets/abbc4191-b543-4a73-8c29-b8478eb4d0c5)
+![Screenshot (2575)](https://github.com/user-attachments/assets/cc901d1e-cf91-4dc7-ba4c-38f215321b97)
+![Screenshot (2574)](https://github.com/user-attachments/assets/142466af-a9ea-4c2e-abae-965f1c61a1d3)
+![Screenshot (2573)](https://github.com/user-attachments/assets/d7025267-0f5a-42b1-9a6e-96cc18d886c8)
+![Screenshot (2585)](https://github.com/user-attachments/assets/be9a2a53-f0ae-4304-be8e-39ca049fe09e)
+![Screenshot (2584)](https://github.com/user-attachments/assets/07f0fef4-af33-4063-a5a8-2cb13a2e6584)
+![Screenshot (2583)](https://github.com/user-attachments/assets/6c2beda8-8321-4520-9c71-67debb160667)
+![Screenshot (2582)](https://github.com/user-attachments/assets/f95dfec7-4a8d-45a1-9394-f0b6457cdaea)
+![Screenshot (2581)](https://github.com/user-attachments/assets/a9b78a76-1117-4b0c-86d9-e38757f02a55)
+![Screenshot (2580)](https://github.com/user-attachments/assets/e33c7c21-2dcd-411e-8eb6-1b1e61d08354)
+![Screenshot (2579)](https://github.com/user-attachments/assets/097cbee4-0af8-44e1-a046-0ce33bb2d47b)
+![Screenshot (2578)](https://github.com/user-attachments/assets/294c3ed8-6338-42f6-9531-2e00697b9c6f)
+![Screenshot (2577)](https://github.com/user-attachments/assets/1e79829c-e257-4dc5-8b26-ea628a42b0cf)
+![Screenshot (2586)](https://github.com/user-attachments/assets/4a220c80-948f-40f6-a7b6-e0e21f9e9839)
